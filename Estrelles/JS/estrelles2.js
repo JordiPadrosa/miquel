@@ -27,6 +27,7 @@ function valorNumeroEstrelles() {
 function crearEstrelles() {
   let estrella = document.createElement("div");
   estrella.classList.add("estrella");
+  estrella.style.opacity = Math.random();
   estrella.style.height = estrella.style.width = random((localStorage.getItem("radiEstrella")*2), "px");
   estrella.style.left = random(1380, "px");
   estrella.style.top = random(580, "px");

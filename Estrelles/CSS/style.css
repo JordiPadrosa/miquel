@@ -1,0 +1,11 @@
+.fons {
+    position: relative;
+    height: 600px;
+    width: 1400px;
+    background: black;
+}
+.estrella {
+    position: absolute;
+    background-color: white;
+    border-radius: 50%;
+  }

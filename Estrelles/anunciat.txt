@@ -1,0 +1,8 @@
+número estrelles: 50-1000
+radi maxim estrella: 1-6
+Distància mínima estrelles: 1-10
+Intensitat-Random
+
+butò Mostrar
+
+número estrelles: Tornar
